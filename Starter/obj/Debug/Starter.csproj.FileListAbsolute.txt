@@ -1,5 +1,0 @@
-d:\dev\code\cs\Starter\bin\Debug\Starter.exe
-d:\dev\code\cs\Starter\bin\Debug\Starter.pdb
-d:\dev\code\cs\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
-d:\dev\code\cs\Starter\obj\Debug\Starter.exe
-d:\dev\code\cs\Starter\obj\Debug\Starter.pdb

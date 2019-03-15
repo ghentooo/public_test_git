@@ -1,8 +1,0 @@
-D:\dev\code\cs\vcopy\HelperLibrary\bin\Release\HelperLibrary.dll
-D:\dev\code\cs\vcopy\HelperLibrary\bin\Release\HelperLibrary.pdb
-D:\dev\code\cs\vcopy\HelperLibrary\obj\Release\HelperLibrary.dll
-D:\dev\code\cs\vcopy\HelperLibrary\obj\Release\HelperLibrary.pdb
-D:\dev\code\cs\HelperLibrary\obj\Release\HelperLibrary.dll
-D:\dev\code\cs\HelperLibrary\obj\Release\HelperLibrary.pdb
-D:\dev\code\cs\HelperLibrary\bin\Release\HelperLibrary.dll
-D:\dev\code\cs\HelperLibrary\bin\Release\HelperLibrary.pdb

@@ -1,5 +1,0 @@
-D:\dev\code\cs\TestStarterLib\bin\Debug\TestStarterLib.dll
-D:\dev\code\cs\TestStarterLib\bin\Debug\TestStarterLib.pdb
-D:\dev\code\cs\TestStarterLib\obj\Debug\TestStarterLib.csprojResolveAssemblyReference.cache
-D:\dev\code\cs\TestStarterLib\obj\Debug\TestStarterLib.dll
-D:\dev\code\cs\TestStarterLib\obj\Debug\TestStarterLib.pdb
