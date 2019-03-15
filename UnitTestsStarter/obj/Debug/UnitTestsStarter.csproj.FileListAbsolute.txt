@@ -1,0 +1,13 @@
+D:\dev\code\cs\UnitTestsStarter\obj\Debug\UnitTestsStarter.csprojResolveAssemblyReference.cache
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\UnitTestsStarter.dll
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\UnitTestsStarter.pdb
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\HelperLibrary.dll
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\Starter.exe
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\TestStarterLib.dll
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\Crc32.NET.dll
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\HelperLibrary.pdb
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\Starter.pdb
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\TestStarterLib.pdb
+D:\dev\code\cs\UnitTestsStarter\bin\Debug\Crc32.NET.xml
+D:\dev\code\cs\UnitTestsStarter\obj\Debug\UnitTestsStarter.dll
+D:\dev\code\cs\UnitTestsStarter\obj\Debug\UnitTestsStarter.pdb

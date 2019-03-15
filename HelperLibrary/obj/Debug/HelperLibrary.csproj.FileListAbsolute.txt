@@ -1,0 +1,12 @@
+D:\dev\code\cs\HelperLibrary\bin\Debug\HelperLibrary.dll.config
+D:\dev\code\cs\HelperLibrary\bin\Debug\HelperLibrary.dll
+D:\dev\code\cs\HelperLibrary\bin\Debug\HelperLibrary.pdb
+D:\dev\code\cs\HelperLibrary\bin\Debug\Crc32.NET.dll
+D:\dev\code\cs\HelperLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\dev\code\cs\HelperLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\dev\code\cs\HelperLibrary\bin\Debug\Crc32.NET.xml
+D:\dev\code\cs\HelperLibrary\bin\Debug\Newtonsoft.Json.pdb
+D:\dev\code\cs\HelperLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\dev\code\cs\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+D:\dev\code\cs\HelperLibrary\obj\Debug\HelperLibrary.dll
+D:\dev\code\cs\HelperLibrary\obj\Debug\HelperLibrary.pdb
