@@ -64,5 +64,12 @@ namespace com.continental.TDM.Starter.Unittests
 
             Assert.AreEqual(result, TestResult);
         }
+
+        [TestMethod]
+        public void TestTemp()
+        {
+          
+            Assert.AreEqual(1, 2); //Fails
+        }
     }
 }
