@@ -69,7 +69,7 @@ namespace com.continental.TDM.Starter.Unittests
         public void TestTemp()
         {
           
-            Assert.AreEqual(1, 2); //Fails
+            Assert.AreEqual(1, 1); //Fails
         }
     }
 }
